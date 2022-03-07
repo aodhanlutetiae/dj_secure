@@ -2,7 +2,7 @@
 
 What are the potential dangers when working with data and how do we protect ... everyone?
 
-# Areas to watch
+## Areas to watch
 - number
 - data
 - chart
