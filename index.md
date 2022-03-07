@@ -1,6 +1,15 @@
 ## Module Three: Using data securely for journalism
 
-What are the potential dangers when working with data and how do we protect everyone?
+What are the potential dangers when working with data and how do we protect ... everyone?
+
+# Areas to watch
+- number
+- data
+- chart
+- map
+- gdpr
+- other legal & ethical
+- digisec
 
 ## Learning
 
