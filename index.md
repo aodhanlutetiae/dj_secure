@@ -1,19 +1,24 @@
-## Module Three: Using data securely for journalism
+## Module Three: Data security
 
-What are the potential dangers when working with data and how do we protect ... everyone?
+What are the potential dangers when working with data and how do we protect everyone?
 
-## Areas to watch
-- number
-- data
-- chart
-- map
-- gdpr
-- other legal & ethical
-- digisec
+## Material
+- Evaluating data quality
+- Data protection
+- Communicating numbers
+- Communicating visually
+- Other legal: licences, scraping
+- Data security as a reporting beat  
 
 ## Learning
 
+- TASK:
+- TASK:
+- TASK:
+
 ## Practice
+
+- [Safe data assignment](https://aodhanlutetiae.github.io/dj_secure/assign)
 
 ---
 ## Resources
