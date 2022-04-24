@@ -2,13 +2,21 @@
 
 What are the potential dangers when working with data and how do we protect everyone?
 
+Elicit examples of dpr from everyone
+
 ## Material
-- Evaluating data quality
-- Data protection
-- Communicating numbers
+
+- UK GDPR & DPA 2018
+<!-- what are personal data? What are sensitive personal data? -->
+- Anonymising data
+- Data protection as a beat
+- Other legal areas: licences, scraping
+- Protecting datasets
+- Ethical data journalism
 - Communicating visually
-- Other legal: licences, scraping
-- Data security as a reporting beat  
+
+<!-- - Communicating numbers
+- Evaluating data quality -->
 
 ## Learning
 
