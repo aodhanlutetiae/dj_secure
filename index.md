@@ -16,16 +16,16 @@ What are the potential dangers when working with data and how do we protect ever
 
 - [TASK: Data protection quiz](https://forms.gle/F9ncjFaZZqCdXHZi8)
 - [TASK: Read two accounts of anonymity and reporting](https://forms.gle/8sDZY6YhumAuVQgCA)
-  - [Diakopoulos, Nicholas. BuzzFeed’s pro tennis investigation displays ethical dilemmas of data journalism. CJR, 2016](https://www.cjr.org/tow_center/transparency_algorithms_buzzfeed.php))
-  - [Craig, David et al. Ethical questions in data journalism and the power of online discussion. Datajournalism.com, 2017](https://datajournalism.com/read/longreads/ethical-questions-in-data-journalism-and-the-power-of-online-discussion)
+  - [BuzzFeed’s pro tennis investigation displays ethical dilemmas of data journalism. CJR, 2016](https://www.cjr.org/tow_center/transparency_algorithms_buzzfeed.php))
+  - [Sandy Hook shooting and gun permits](https://datajournalism.com/read/longreads/ethical-questions-in-data-journalism-and-the-power-of-online-discussion)
 
 
 ## Practice
 
-- [Safe data assignment](https://aodhanlutetiae.github.io/dj_secure/assign)
+- [Secure data assignment](https://aodhanlutetiae.github.io/dj_secure/assign)
 
 
-## Reading and case studies
+## Readings
 
 - [Chalabi, Mona. Mapping kidnappings in Nigeria. 538, 2014](https://fivethirtyeight.com/features/mapping-kidnappings-in-nigeria/)
 - [Glanville, Jo. The journalistic exemption (Data Protection Act). LRB. 2018](https://www.lrb.co.uk/the-paper/v40/n13/jo-glanville/the-journalistic-exemption)
