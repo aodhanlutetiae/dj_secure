@@ -1,6 +1,6 @@
 ## Module Three: Secure data assignment
 
-1. **List** what you can do at each of these stages to work safely with any data
+1 **List** what you can do at each of these stages to work safely with any data
 
 - Where did we get it? (keep a record)
 - What can we do with it? (licence / T&C)
@@ -10,7 +10,7 @@
 - Any other steps
 
 
-2. **Review** one or more of these cases of (primary) data gathered for journalism. The first two involve donated data, the third involves monitoring and the last collected the data from an NHS search function.
+2 **Review** one or more of these cases of (primary) data gathered for journalism. The first two involve donated data, the third involves monitoring and the last collected the data from an NHS search function.
 
 - [Deliveroo drivers earn as little as £2 an hour (TBIJ)](https://www.thebureauinvestigates.com/stories/2021-03-25/deliveroo-riders-earning-as-little-as-2-pounds) & [background](https://www.thebureauinvestigates.com/blog/2021-04-14/a-blueprint-for-investigative-journalism-how-the-bureau-worked-alongside-riders-to-investigate-deliveroo)
 
@@ -20,4 +20,4 @@
 
 - [Patients 'glued own teeth' as dentists drop NHS work (BBC)](https://www.bbc.co.uk/news/uk-59874320) & [background](https://docs.google.com/document/d/1oRvgeBzV5R62RLBOVRwZnSo-NMinzJ_jJbtKwtLU_Fc/edit#)
 
-Identify a possible source of data that you could collect. Decide if the collection would be legally and ethically safe - why (not)?
+Identify a possible source of data that you could collect. Decide **if** the collection would be legally and ethically safe - why (not)?
