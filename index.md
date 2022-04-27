@@ -2,7 +2,6 @@
 
 What are the potential dangers when working with data and how do we protect everyone?
 
-
 ## Topics
 
 - Data protection
@@ -11,7 +10,6 @@ What are the potential dangers when working with data and how do we protect ever
 - Data protection as a beat
 - Ethical data journalism
 
-
 ## Learning
 
 - [TASK: Data protection quiz](https://forms.gle/F9ncjFaZZqCdXHZi8)
@@ -19,11 +17,9 @@ What are the potential dangers when working with data and how do we protect ever
   - [BuzzFeed’s pro tennis investigation displays ethical dilemmas of data journalism. CJR, 2016](https://www.cjr.org/tow_center/transparency_algorithms_buzzfeed.php))
   - [Sandy Hook shooting and gun permits](https://datajournalism.com/read/longreads/ethical-questions-in-data-journalism-and-the-power-of-online-discussion)
 
-
 ## Practice
 
 - [Secure data assignment](https://aodhanlutetiae.github.io/dj_secure/assign)
-
 
 ## Readings
 
