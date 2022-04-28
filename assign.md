@@ -20,4 +20,4 @@
 
 - [Patients 'glued own teeth' as dentists drop NHS work (BBC)](https://www.bbc.co.uk/news/uk-59874320) & [background](https://docs.google.com/document/d/1oRvgeBzV5R62RLBOVRwZnSo-NMinzJ_jJbtKwtLU_Fc/edit#)
 
-Identify a possible source of data that you could collect. Decide **if** the collection would be legally and ethically safe - why (not)?
+Identify a possible source of data that you could collect. Decide **if** the collection would be legally and ethically safe - why (not)? The goal is not to find the ideal data collection project but simply to test a hypothetical data collection idea.

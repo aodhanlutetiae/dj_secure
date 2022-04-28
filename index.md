@@ -24,7 +24,7 @@ What are the potential dangers when working with data and how do we protect ever
 ## Readings
 
 - [Chalabi, Mona. Mapping kidnappings in Nigeria. 538, 2014](https://fivethirtyeight.com/features/mapping-kidnappings-in-nigeria/)
-- [Glanville, Jo. The journalistic exemption (Data Protection Act). LRB. 2018](https://www.lrb.co.uk/the-paper/v40/n13/jo-glanville/the-journalistic-exemption)
+- [Glanville, Jo. The journalistic exemption (Data Protection Act). LRB, 2018](https://www.lrb.co.uk/the-paper/v40/n13/jo-glanville/the-journalistic-exemption)
 - [ICO. Data protection and journalism, a quick guide. 2014-2018](https://ico.org.uk/media/for-organisations/documents/1547/data-protection-and-journalism-quick-guide.pdf)
 - [ICO. Register of data controllers](https://ico.org.uk/ESDWebPages/Search)
 & [Enforcement record](https://ico.org.uk/action-weve-taken/enforcement/) & [Enforcement trends](https://ico.org.uk/action-weve-taken/data-security-incident-trends/)
