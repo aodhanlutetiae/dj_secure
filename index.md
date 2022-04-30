@@ -35,7 +35,7 @@ What are the potential dangers when working with data and how do we protect ever
 ---
 ## Resources
 
-- Summary of live workshop — to follow
+- [Summary of online workshop](stories_data_protection.pdf)
 - [Datasets by topic (Jomec)](https://aodhanlutetiae.github.io/j_book/intro.html)
 - [Google drive](https://bit.ly/app_data_jomec)
 
