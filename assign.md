@@ -21,10 +21,11 @@ You don't have to provide evidence that you've looked at one or more of these st
 
 - [Patients 'glued own teeth' as dentists drop NHS work (BBC)](https://www.bbc.co.uk/news/uk-59874320) & [background](https://docs.google.com/document/d/1oRvgeBzV5R62RLBOVRwZnSo-NMinzJ_jJbtKwtLU_Fc/edit#)
 
-3. Having reviewed these stories, identify a possible source of data that you could collect. Decide **if** the collection would be legally and ethically safe - why (not)? The goal is not to find the ideal data collection project, but simply to test a hypothetical data collection idea: you might simply identify a possible collection project and explain why it won't work.
+3 Having reviewed these stories, identify a possible source of data that you could collect. Decide **if** the collection would be legally and ethically safe - why (not)? The goal is not to find the ideal data collection project, but simply to test a hypothetical data collection idea: you might simply identify a possible collection project and explain why it won't work.
 
-**Submitting**
-Send your material to Cambridge Spark, since they are tracking who's done what.
+**Send** your material to Cambridge Spark, since they are tracking who's done what.
 
 **What should my finished document look like?**
-It should **not** run very long: question 1 is around half a dozen points or sentences. Question 2 doesn't require you to write anything (although you can submit your observations if you like). Question 3 is an outline of what your idea is and why it works / doesn't work so it could be two paragraphs or it could be a series of points. It could all conceivably be done in a single page, but there is no upper limit if you need to write more.
+It should **not** run very long and there is no minimum word count: Question 1 is around half a dozen points or sentences. Question 2 doesn't require you to write anything (although you can submit your observations if you like). Question 3 is an outline of what your idea is and why it works / doesn't work so it could be two paragraphs or it could be a series of points.
+
+The whole thing could conceivably be done in a single page, but there is no upper limit if you need to write more.
