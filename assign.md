@@ -11,7 +11,7 @@
 
 2 **Review** one or more of these cases of (primary) data gathered for journalism. The first two involve donated data, the third involves monitoring and the last collected the data from an [NHS search function](https://www.nhs.uk/service-search/find-a-dentist).
 
-You don't have to provide evidence that you've looked at one or more of these stories (although you can). The goal here is to **see** some concrete examples of how journalists have collected data (some of it personal) for a story.
+You don't have to provide evidence that you've looked at one or more of these stories (although you *can* if it's useful or helps you to review them). The goal here is to **see** some concrete examples of how journalists have collected data (some of it personal data) for a story.
 
 - [Deliveroo drivers earn as little as £2 an hour (TBIJ)](https://www.thebureauinvestigates.com/stories/2021-03-25/deliveroo-riders-earning-as-little-as-2-pounds) & [background](https://www.thebureauinvestigates.com/blog/2021-04-14/a-blueprint-for-investigative-journalism-how-the-bureau-worked-alongside-riders-to-investigate-deliveroo)
 

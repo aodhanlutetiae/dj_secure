@@ -5,7 +5,7 @@ What are the potential dangers when working with data and how do we protect ever
 ## Topics
 
 - Data protection
-- Other legal areas: licences, scraping
+- Copyright & licences
 - Protecting data
 - Data protection as a beat
 - Ethical data journalism
@@ -21,7 +21,7 @@ What are the potential dangers when working with data and how do we protect ever
 
 - [Secure data assignment](https://aodhanlutetiae.github.io/dj_secure/assign)
 
-## Readings
+## Reading
 
 - [Chalabi, Mona. Mapping kidnappings in Nigeria. 538, 2014](https://fivethirtyeight.com/features/mapping-kidnappings-in-nigeria/)
 - [Glanville, Jo. The journalistic exemption (Data Protection Act). LRB, 2018](https://www.lrb.co.uk/the-paper/v40/n13/jo-glanville/the-journalistic-exemption)
